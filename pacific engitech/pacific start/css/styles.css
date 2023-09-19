@@ -1,0 +1,116 @@
+body {
+  font-family: "Montserrat";
+  font-style: normal;
+}
+#title {
+  background-color: #1F2833;
+  color: #C5C6C7;
+
+}
+.container-fluid {
+padding: 5% 15%;
+}
+.para {
+  font-style: italic;
+}
+.head1 {
+  font-family: "Montserrat";
+  font-size: 3rem;
+  font-weight: bold;
+  font-style: normal;
+  line-height: 1.5;
+}
+.head21 {
+ font-weight: bolder;
+ font-style: normal;
+ padding-bottom: 7%;
+ color: #45A29E;
+}
+
+.head3 {
+  font-family: "Montserrat"
+  font-style: normal;
+  font-weight: bolder;
+}
+/* NAvigationbar */
+.navbar {
+  padding: 0 0 4.5rem;
+}
+.navbar-brand {
+  font-family: 'Ubantu';
+  font-size: 3rem;
+  font-style: normal;
+  color: #66FCF1;
+  font-weight: bold;
+}
+.brand {
+  font-size: 2.5rem;
+  color: #66FCF1;
+
+}
+}
+.nav-item {
+  font-size: 1.2rem;
+  font-family: "Montserrat-Light"
+  font-style: normal;
+  color: #66FCF1;
+}
+.nav-link{
+  color: #66FCF1;
+}
+/* title */
+.title-image {
+  width: 70%;
+
+}
+
+/* Featuressection */
+#features {
+  padding: 7% 15%;
+  background-color: #C5C6C7;
+}
+.feature-box {
+  text-align: center;
+  color: #1F2833;
+  padding: 5%
+}
+.icon {
+  color: #45A29E;
+  margin-bottom: 1rem;
+}
+.icon:hover {
+  color: #1F2833;
+}
+
+/* products */
+#products {
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #1F2833;
+  color: #C5C6C7;
+  font-family: "Montserrat";
+  font-style: normal;
+  font-weight:bold;
+}
+#about{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #C5C6C7;
+  color: #1F2833;
+}
+#Contact{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #1F2833;
+  color: #C5C6C7;
+}
+#con{
+  margin-top: : 25px;
+}
+#footer{
+  text-align: center;
+  margin-top: 20px;
+}
+.ganesha{
+  width: 30%
+}
